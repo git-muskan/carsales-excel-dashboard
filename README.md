@@ -3,11 +3,11 @@ This is an interactive Excel dashboard for analyzing car sales data. It visualiz
 
 ## Features
 
-## Sales Summary: 
+### Sales Summary: 
 Overview of total sales, revenue, and units sold.
-## Trend Analysis:
+### Trend Analysis:
 Visualization of sales trends over time.
-## Performance Metrics: 
+### Performance Metrics: 
 Key performance indicators including average sales, top-performing models etc.
-## Interactive Filters: 
+### Interactive Filters: 
 Dynamic filters to view data by time period, and car model.
